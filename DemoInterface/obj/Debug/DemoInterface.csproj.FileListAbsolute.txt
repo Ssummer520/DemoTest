@@ -1,0 +1,6 @@
+C:\Users\alan.wang\source\repos\DapperDemo\DemoInterface\obj\Debug\DemoInterface.csprojAssemblyReference.cache
+C:\Users\alan.wang\source\repos\DapperDemo\DemoInterface\obj\Debug\DemoInterface.csproj.CoreCompileInputs.cache
+C:\Users\alan.wang\source\repos\DapperDemo\DemoInterface\bin\Debug\DemoInterface.dll
+C:\Users\alan.wang\source\repos\DapperDemo\DemoInterface\bin\Debug\DemoInterface.pdb
+C:\Users\alan.wang\source\repos\DapperDemo\DemoInterface\obj\Debug\DemoInterface.dll
+C:\Users\alan.wang\source\repos\DapperDemo\DemoInterface\obj\Debug\DemoInterface.pdb

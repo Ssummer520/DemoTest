@@ -1,0 +1,17 @@
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DemoConsole.exe
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DemoConsole.pdb
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DapperDemo.dll
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DemoCore.dll
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DemoInterface.dll
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\Dapper.dll
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DapperExtensions.dll
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DapperDemo.pdb
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DemoCore.pdb
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DemoInterface.pdb
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\Dapper.xml
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\bin\Debug\DapperExtensions.pdb
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\obj\Debug\DemoConsole.csprojAssemblyReference.cache
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\obj\Debug\DemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\obj\Debug\DemoConsole.csproj.CopyComplete
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\obj\Debug\DemoConsole.exe
+C:\Users\alan.wang\source\repos\DapperDemo\DemoConsole\obj\Debug\DemoConsole.pdb
